@@ -1,0 +1,21 @@
+body {
+  background-color: #faf3dd;
+}
+
+hr {
+  border-color: #065c6f;
+  border-width: 5px;
+  border-style: none;
+  border-top-style: dotted;
+  height: 0;
+  width: 5%;
+}
+
+h1 {
+  color: #065c6f;
+  font-family: Arial;
+}
+
+h3 {
+  color: #065c6f;
+}
